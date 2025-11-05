@@ -1,4 +1,3 @@
-```markdown
 # 🔐 VaultLock — Multi-Signature Token Vault on Solana
 
 **VaultLock** is a decentralized multi-signature vault built on the **Solana blockchain**.  
