@@ -1,5 +1,3 @@
----
-
 ```markdown
 # 🔐 VaultLock — Multi-Signature Token Vault on Solana
 
@@ -265,40 +263,3 @@ NEXT_PUBLIC_SOLANA_CLUSTER=https://api.devnet.solana.com
 
 ---
 
-## 📈 Future Enhancements
-
-* M-of-N multisig support
-* Time-locked withdrawals
-* NFT vault support
-* DAO/governance token integration
-* Cross-chain support via Wormhole
-
----
-
-## 👥 Team Roles
-
-| Role                    | Responsibilities                            |
-| ----------------------- | ------------------------------------------- |
-| **Backend Lead (You)**  | Smart contract logic, PDAs, Anchor tests    |
-| **Frontend Developers** | UI, wallet integrations, state management   |
-| **QA / Tester**         | Manual & automated testing                  |
-| **Project Lead**        | Timeline, milestones, and demo presentation |
-
----
-
-## 📄 License
-
-MIT © 2025 **VaultLock Team**
-
----
-
-## 🏁 Summary
-
-**VaultLock** combines **Solana PDAs**, **SPL Tokens**, and **Anchor** to deliver a trustless, multi-signature fund management system.
-This README serves as your project blueprint — covering architecture, folder structure, workflows, and setup instructions — so your **frontend and backend teams can build independently yet in sync.**
-
----
-
-```
-
----
